@@ -20,3 +20,9 @@ An automated dashborad providing quick and latest sales insights in order to sup
 Dashboard uncovering sales order insights with latest data available.
 Sales team to take better decisions and prove 10% cost savings of total spend.
 Saving 20% of business time avoiding gathering data manually.
+
+# Procedure
+
+# Load data into Data Warehouse using ETL Techniques
+ETL stands for Extract, Transfer and Load. It is an effective data integration technique that extracts data from multiple sources, transforms it to fit the data warehouse schema and then loads it into the data warehouse.
+
