@@ -1,6 +1,10 @@
 # Sales-Insights-Data-Analysis- 
 -Study the data of a company to draw meaningful insights on sales and thus help in the flourishment of  the business.
 
+# Business Request - 
+We want to improve our internal sales reports are move from static reports to dashborads.
+Essentially, we want to focus on how much of which products we have sold to which clients and how has it been over time
+
 # AIMS Grid
 
 # Purpose
